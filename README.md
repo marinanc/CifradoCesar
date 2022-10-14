@@ -8,4 +8,4 @@ Es un tipo de cifrado por sustitución en el que una letra en el texto original 
 - CSS
 
 ## Source
-1. https://www.youtube.com/watch?v=7A4pdwpT10Q&t=311
+1. https://www.youtube.com/watch?v=7A4pdwpT10Q
